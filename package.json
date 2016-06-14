@@ -1,6 +1,6 @@
 {
-  "name": "react-faux-dom",
-  "version": "2.5.0",
+  "name": "react-faux-dom-roadcert-edition",
+  "version": "0.0.1",
   "description": "DOM like data structure to be mutated by D3 et al, then rendered to React elements",
   "main": "lib/ReactFauxDOM.js",
   "scripts": {
@@ -17,9 +17,8 @@
     "virtual"
   ],
   "author": {
-    "name": "Oliver Caldwell",
-    "email": "olliec87@gmail.com",
-    "url": "http://oli.me.uk/"
+    "name": "James Cordeiro",
+    "email": "james@cordeiro.co.vu"
   },
   "license": "Unlicense",
   "bugs": {
@@ -38,8 +37,5 @@
   "dependencies": {
     "query-selector": "^1.0.9",
     "style-attr": "^1.0.1"
-  },
-  "peerDependencies": {
-    "react": "*"
   }
 }
